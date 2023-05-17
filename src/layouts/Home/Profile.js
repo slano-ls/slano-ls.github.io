@@ -20,17 +20,24 @@ const ProfileText = ({ visible, titleId }) => (
     <Heading className={styles.title} data-visible={visible} level={3} id={titleId}>
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
-    <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Saihaj Law, currently I live in Canada working as a Student Developer. My projects include UX design, UI
-      animations, and icon illustration. Being comfortable with code allows me to rapidly
-      prototype and validate experiences. If you’re interested in the tools and software I
-      use check out my <Link href="/uses">uses page</Link>.
+
+   <Text className={styles.description} data-visible={visible} size="l" as="p">
+  Hello, my name is Saihaj Law, and its great to meet you!
     </Text>
+   <Text className={styles.description} data-visible={visible} size="l" as="p">
+  If you are checking out this website, thats awesome; this is the place I like to call my **digital garden**. On here, I talk about all of my major ideas and discuss topics which I am currently focused on. I have a projects section in which I highlight some of the bigger projects which Im working on, so feel free to take a look!
+  </Text>
+   <Text className={styles.description} data-visible={visible} size="l" as="p">
+  A bit more about myself...
+  Im currently a 17 year old High School student, and I love mathematics and programming (as many do). Outside of that, I am a frequent athlete and also a pianist who plays whenever the occasion arises. I love programming **low-level** code, primarily in C and working on different algorithm optimization as it couples my interest in mathematics and programming in an interesting way. Ive made a full suite of low-level code, including a **Programming Language (SLLANG) & Compiler (SCC)**. Ive also recreated my own version of many basic *Linux* terminal commands (top, cat, grep etc.). 
+  </Text>
+   <Text className={styles.description} data-visible={visible} size="l" as="p">
+  Currently, I am researching Keyboard Layout Optimization through QUANTUM COMPUTING, something which Ive never delved into before, but its been very interesting!
+  </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      In my spare time I like to play soccer, and{' '}
-      <Link href="/projects/volkihar-knight">make mods</Link>. I’m always down for hearing
-      about new projects, so feel free to drop me a line.
-    </Text>
+      In my spare time I like to play soccer, and play piano as well
+  </Text>
+
   </Fragment>
 );
 
