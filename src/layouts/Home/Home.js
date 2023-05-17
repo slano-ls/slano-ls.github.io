@@ -6,11 +6,13 @@ import gamestackTexturePlaceholder from 'assets/gamestack-login-placeholder.jpg'
 import gamestackTexture from 'assets/gamestack-login.jpg';
 import sliceTextureLarge from 'assets/slice-app-large.jpg';
 import sliceTexturePlaceholder from 'assets/slice-app-placeholder.jpg';
- import sliceTexture from 'assets/slice-app.jpg';
-// import sprTextureLarge from 'assets/spr-lesson-builder-dark-large.jpg';
-import sprTextureLarge from 'assets/ocsr.jpg'
-import sprTexturePlaceholder from 'assets/spr-lesson-builder-dark-placeholder.jpg';
-import sprTexture from 'assets/spr-lesson-builder-dark.jpg';
+import sliceTexture from 'assets/slice-app.jpg';
+//import sprTextureLarge from 'assets/spr-lesson-builder-dark-large.jpg';
+//import sprTexturePlaceholder from 'assets/spr-lesson-builder-dark-placeholder.jpg';
+//import sprTexture from 'assets/spr-lesson-builder-dark.jpg';
+import sprTextureLarge from 'assets/ocsr.jpg';
+import sprTexturePlaceholder from 'assets/ocsr.jpg';
+import sprTexture from 'assets/ocsr.jpg';
 import { Footer } from 'components/Footer';
 import { Meta } from 'components/Meta';
 import { Intro } from 'layouts/Home/Intro';
