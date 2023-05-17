@@ -1,9 +1,8 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "homepage": "https://hamishw.com",
+  "homepage": "https://slano-ls.github.io",
   "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
   "author": "Hamish Williams <hello@hamishw.com>",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
@@ -19,6 +18,7 @@
     "eslint": "^8.21.0",
     "eslint-config-next": "^12.2.5",
     "fs-extra": "^10.1.0",
+    "gh-pages": "^5.0.0",
     "globby": "^13.1.2",
     "postcss": "^8.4.16",
     "postcss-flexbugs-fixes": "^5.0.2",
@@ -49,7 +49,8 @@
     "dev": "next dev",
     "build": "next build && next export -o build/",
     "build:storybook": "build-storybook -o build-storybook && node scripts/draco-storybook",
-    "deploy": "aws s3 sync --delete build/ s3://hamish-portfolio-site",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build", 
     "deploy:storybook": "aws s3 sync --delete build-storybook s3://hamish-portfolio-storybook",
     "deploy:functions": "cd functions && npm run deploy",
     "start": "next start",
