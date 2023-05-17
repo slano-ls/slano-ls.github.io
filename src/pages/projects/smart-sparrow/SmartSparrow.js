@@ -70,14 +70,14 @@ import styles from './SmartSparrow.module.css';
 const Earth = dynamic(() => import('./Earth').then(mod => mod.Earth));
 const EarthSection = dynamic(() => import('./Earth').then(mod => mod.EarthSection));
 
-const title = 'Designing the future of education';
+const title = 'DOOM Emacs Configuration ';
 const description =
-  'I worked as the design lead on a major iteration of Smart Sparrow’s product. We took the platform in a bold new direction, focusing on becoming the best tool for learning designers.';
+  'I created a detailed DOOM Emacs configuration in which I integrated it with MacOS and other Linux-Based tools.'
 const roles = [
-  'Art Direction',
+  'Configuration Maintenance',
   'UX and UI Design',
-  'Front End Development',
-  'Motion Design',
+  'ELisp Programming',
+  'MacOS Systems Development',
 ];
 
 export const SmartSparrow = () => {
