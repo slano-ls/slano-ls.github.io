@@ -72,7 +72,7 @@ const EarthSection = dynamic(() => import('./Earth').then(mod => mod.EarthSectio
 
 const title = 'DOOM Emacs Configuration ';
 const description =
-  'I created a detailed DOOM Emacs configuration in which I integrated it with MacOS and other Linux-Based tools.'
+  'I created a detailed DOOM Emacs configuration in which I integrated it with MacOS and other Linux-Based tools.';
 const roles = [
   'Configuration Maintenance',
   'UX and UI Design',
