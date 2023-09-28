@@ -4,7 +4,7 @@
     <title>Website name - Articles</title>
     <description>Website description</description>
     <link>
-    http://localhost:4000</link>
+    http://website.com</link>
     
       <item>
         <title>Example post</title>
@@ -13,7 +13,7 @@
         
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
         <link>/darcli/posts/example-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/example-post/</guid>
+        <guid isPermaLink="true">http://website.com/posts/example-post/</guid>
       </item>
     
       <item>
@@ -23,7 +23,7 @@
         
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
         <link>/darcli/articles/example-article/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/example-article/</guid>
+        <guid isPermaLink="true">http://website.com/articles/example-article/</guid>
       </item>
     
       <item>
@@ -33,7 +33,7 @@
         
         <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
         <link>/darcli/posts/example-post-pt-br/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/example-post-pt-br/</guid>
+        <guid isPermaLink="true">http://website.com/posts/example-post-pt-br/</guid>
       </item>
     
       <item>
@@ -43,7 +43,7 @@
         
         <pubDate>Fri, 29 Apr 2016 21:00:00 -0400</pubDate>
         <link>/darcli/articles/example-article-pt-br/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/example-article-pt-br/</guid>
+        <guid isPermaLink="true">http://website.com/articles/example-article-pt-br/</guid>
       </item>
     
       <item>
@@ -53,7 +53,7 @@
         
         <pubDate>Sun, 28 Feb 2016 00:00:00 -0500</pubDate>
         <link>https://linktotalk</link>
-        <guid isPermaLink="true">http://localhost:4000/talks/some-talk/</guid>
+        <guid isPermaLink="true">http://website.com/talks/some-talk/</guid>
       </item>
     
       <item>
@@ -63,7 +63,7 @@
         
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
         <link>https://linktoproject</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/project-two/</guid>
+        <guid isPermaLink="true">http://website.com/projects/project-two/</guid>
       </item>
     
       <item>
@@ -73,7 +73,7 @@
         
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
         <link>https://linktoproject</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/project-one/</guid>
+        <guid isPermaLink="true">http://website.com/projects/project-one/</guid>
       </item>
     
       <item>
@@ -83,7 +83,7 @@
         
         <pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
         <link>https://github.com/repository</link>
-        <guid isPermaLink="true">http://localhost:4000/tools/tool-two/</guid>
+        <guid isPermaLink="true">http://website.com/tools/tool-two/</guid>
       </item>
     
       <item>
@@ -93,7 +93,7 @@
         
         <pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
         <link>https://github.com/repository</link>
-        <guid isPermaLink="true">http://localhost:4000/tools/tool-one/</guid>
+        <guid isPermaLink="true">http://website.com/tools/tool-one/</guid>
       </item>
     
       <item>
@@ -103,7 +103,7 @@
         
         <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
         <link>/darcli/team/author-two/</link>
-        <guid isPermaLink="true">http://localhost:4000/team/author-two/</guid>
+        <guid isPermaLink="true">http://website.com/team/author-two/</guid>
       </item>
     
       <item>
@@ -113,7 +113,7 @@
         
         <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
         <link>/darcli/team/author-one/</link>
-        <guid isPermaLink="true">http://localhost:4000/team/author-one/</guid>
+        <guid isPermaLink="true">http://website.com/team/author-one/</guid>
       </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Website name</title>
-  <link href="http://localhost:4000/atom.xml" rel="self" />
-  <link href="http://localhost:4000/"/>
-  <updated>2023-09-27T14:06:31-04:00</updated>
-  <id>http://localhost:4000</id>
+  <link href="http://website.com/atom.xml" rel="self" />
+  <link href="http://website.com/"/>
+  <updated>2023-09-28T10:48:11-04:00</updated>
+  <id>http://website.com</id>
   <author>
     <name>Website name</name>
   </author>
