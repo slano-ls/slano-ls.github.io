@@ -1,9 +1,9 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
+title: "SLANOSEC"
+name: "SLANOSEC"
 keywords: "Key, words, about, this, website"
 baseurl: "/darcli"
-url: "http://website.com"
+url: "http://slano-ls.github.io"
 description: "Website description"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
