@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SLANOSEC</title>
-  <link href="https://slano-ls.github.io/atom.xml" rel="self" />
-  <link href="https://slano-ls.github.io/"/>
-  <updated>2023-10-15T22:10:14-04:00</updated>
-  <id>https://slano-ls.github.io</id>
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <link href="http://localhost:4000/"/>
+  <updated>2023-10-15T22:15:26-04:00</updated>
+  <id>http://localhost:4000</id>
   <author>
     <name>SLANOSEC</name>
   </author>
