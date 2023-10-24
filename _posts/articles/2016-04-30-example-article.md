@@ -106,11 +106,23 @@ In the basic sense, the answer could be no; but once we begin upgrading the phil
 
 For now, the important consideration of this section, is to provide insight that a system should have **diversity**, in order to make it that one "large-scale" attack, isn't able to hack each and every device in a system. 
 
+#### Iterative Responsiveness
 
+This concept becomes slightly more mathematical in pursuit, in comparison to programmatic; but is still a necessary idea to be discussed in our system. While the goal is an unbreakable system, the (subjectively) secondary goal to this program is to create something which **IF HACKED**, is able to repair itself, and in-turn become unbreakable again. 
 
+In a world where AI technologies are creating changes unparalleled, one can draw inspiration from the techniques used in AI; and also implement them in securities. While AI is a term thrown around fairly lightly, I will continue using it for simplicities sake, but when discussing AI it is important to understand I am primarily focusing on "Machine Learning", which involves the process of providing large amounts of data to a model which it syntheiszes, and extrapolates to provide conclusions. This is **MACHINE LEARNING**.
 
+One of the beauties of machine learning, is that it lacks any complex systems involved in its "iterative/generational" approach to growth. Simply just "drawing a line of best fit", amongst two points in a coordinate system, could be generalized explanation to its mathematics. 
 
+Scaled up, this creates a web of information which can be used effectively to obtain various conclusions. 
 
+Security is no different. If we were to be "hacked", by some given exploit, the information obtained from that is invaluable; and in turn we would be able to use the information to create a fix to the problem. Sadly in the modern industry, this often involves "patchwork" solutions, where the vulnerability is temporarily fixed, and the core root of the issue is undeniably existent, but not solved. This is primarily because of poorly documented (old) code, as well as an incredibly complexity of systems which would need to be rewritten in order to restore security in the system. 
 
+Because of that, it is necessary that we establish a "reverse-evolutionary" system in our unbreakable system. One that doesn't simply just "fix", the problem of the species at the onset of its creation; rather "recreates" the system based on its given vulnerability. 
 
+What this would entail, is creating an incredibly detailed track record of each and every piece of software included from the origin of our system. This can be implemented in various ways, but one of the most important ways is in the **LIBRARY** concept used often in programming. In order to keep code simple, we oftentimes program "functions" which we store in alternative files (libraries), and then call upon them in a main file. We can continue this practice, but begin implementing a "linking" procedure, in where each iteration of a function call is linked to another function call (we will discuss this later in this article) and in turn allows for a far more "connected" string of information. 
+
+This string of information can then be reused in "rebuilding" our system once it has been hacked, and instead of fixing up one definition of a function (which can be based upon multiple vulnerabilities), we can re-work on the system as a whole. 
+
+If this currently just seems like speculation, completely understandable. The ideas in this paper are not complex, but rather require conceptual understanding once we put it into implementation; the theory is necessary to appreciate the intricacy of an unhackable system, which is why it is being focused on so heavily.
 
