@@ -54,5 +54,21 @@ One of the most primitive ways of breaking the security of printf, lies in the *
 
 Put simply, the act of printf itself, may be an "unhackable system" (it is not, but let's consider it for this example), the thing which makes printf able to be hacked, is not the function itself; rather the **environment** of the function. 
 
+Therefore it is simple to conclude, that an unhackable system can only be treated as unhackable, provided it's **environment is unhackable**. 
 
+### Understanding Unhackable Environments
+
+This is where our topic becomes far more complicated. In the realm of modern computing, the concept of an environment has become incredibly complex. Even just in the simple CPU there exist countless vulnerabilities. In the RAM, there exist countless more; and in the calls between the CPU and RAM, there exist a multitude. This increasing pattern of overlapping complexity, is a tough issue to be tackled when discussing an unhackable system. 
+
+To begin even approaching this idea, it is necessary that we take a step back; and observe the millenia of evolution which surround us. Biology, provides to us, an incredibly solid framework to create unhackable systems. To be a good hacker, is to understand things *iteratively*. This is similar to the biological workings of our planet. As species and organisms evolve, they continue to grow "better", in an iterative (generational) manner. This provides for a (long) but detailed change in organisms as their existence grows. 
+
+For many, security tends to fall into the opposite. The trend of our security is not "increasing" in (secureness), rather it is an increase of overcomplicated progams, and electronics; which in combination cause even more vulnerabilities. 
+
+Therefore, to create an unhackable system, we must consider various concepts. 
+
+The first of which, I will denote as "gene diversity". 
+
+#### Genetic Diversity Algorithms
+
+One of the
 
