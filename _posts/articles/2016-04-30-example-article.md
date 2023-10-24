@@ -70,5 +70,47 @@ The first of which, I will denote as "gene diversity".
 
 #### Genetic Diversity Algorithms
 
-One of the
+One of the most important things involved in keeping a species alive, is ensuring it's **genetic diversity**. When a disease populates a species, species which have far different genes tend to survive more, as there is more variety in the species, allowing some to escape the disease. 
+
+In the same way, it is crucial to understand, that while the "standard" for computing involves having countless machines with similar softwares, hardwares, and security; it could be interesting to develop a system with a more "diverse" set of features. 
+
+For any one who works on the offensive-side of security, it is undeniable that taking over a singular device is generally equivalent to taking over multiple devices at a company; because they share so many similarities, it is trivial to take over multiple devices (given one already penetrated). Why is this? Should each device not be of equivalent difficulty?
+
+This is a fairly naive statement to make, but also is incredibly interesting to pursue. Could we have various computers with different types of hardware/security interconnected in a "network"? This would indefinitely create more work for offensive developers, leading to a more difficult hacking experience. But this would not mitigate every issue, it is already difficult enough to create **one** unbreakable device, creating many is almost impossible. 
+
+Because of this, it is necessary to take our "hypothesis", and develop it into a more reasonable scenario. 
+
+How one would go about doing this is incredibly varying, but let's take a simple example for explanatory senses. 
+
+ ---------------------------------------
+| Computer 1               |
+| OS : DEBIAN              |
+| Firewall : Active        |
+| VPN : Active(PROTOCOL A) |
+ ---------------------------------------
+
+ ---------------------------------------
+| Computer 2               |
+| OS : DEBIAN              |
+| Firewall : Active        |
+| VPN : Active(PROTOCOL E) |
+ ---------------------------------------
+
+Given these two arbitrary systems, which share most similarities; they lack genetic diversity, but we have one specific variant amongst the two. This is the VPN protocol. Without going too far into the technical details, we can understand that to obtain "access" to some information on this device, there is a necessity to perform some action on both (different) protocols. 
+
+This requires a longer time to crack, but also is not always implementable in a system. 
+
+The implementation cost vs. reward is something which is always necessary to consider. Is it logical to create variety amongst a distributed system in order to create genetic diversity? 
+
+In the basic sense, the answer could be no; but once we begin upgrading the philosophical ideas of this security, it will all begin to formulate into an answer which potentially could be yes. 
+
+For now, the important consideration of this section, is to provide insight that a system should have **diversity**, in order to make it that one "large-scale" attack, isn't able to hack each and every device in a system. 
+
+
+
+
+
+
+
+
 
