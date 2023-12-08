@@ -7,6 +7,16 @@
     http://localhost:4000</link>
     
       <item>
+        <title>Discussing Security</title>
+        
+          <description>Discussing the Philosophy Behind Security</description>
+        
+        <pubDate>Mon, 23 Oct 2023 14:00:00 -0400</pubDate>
+        <link>//articles/example-article/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/example-article/</guid>
+      </item>
+    
+      <item>
         <title>Example post</title>
         
           <description>An example post to this theme</description>
@@ -14,16 +24,6 @@
         <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
         <link>//posts/example-post/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/example-post/</guid>
-      </item>
-    
-      <item>
-        <title>Example article</title>
-        
-          <description>An example article to this theme</description>
-        
-        <pubDate>Sun, 01 May 2016 08:00:00 -0400</pubDate>
-        <link>//articles/example-article/</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/example-article/</guid>
       </item>
     
       <item>

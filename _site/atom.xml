@@ -3,11 +3,19 @@
   <title>SLANOSEC</title>
   <link href="http://localhost:4000/atom.xml" rel="self" />
   <link href="http://localhost:4000/"/>
-  <updated>2023-10-15T22:18:16-04:00</updated>
+  <updated>2023-12-07T19:07:04-05:00</updated>
   <id>http://localhost:4000</id>
   <author>
     <name>SLANOSEC</name>
   </author>
+  
+    <entry>
+      <title>Discussing Security</title>
+      <link href="//articles/example-article/" />
+      <updated>2023-10-23T14:00:00-04:00</updated>
+      <id>//articles/example-article</id>
+      <content type="html">Discussing the Philosophy Behind Security</content>
+    </entry>
   
     <entry>
       <title>Example post</title>
@@ -15,14 +23,6 @@
       <updated>2016-05-01T08:00:00-04:00</updated>
       <id>//posts/example-post</id>
       <content type="html">An example post to this theme</content>
-    </entry>
-  
-    <entry>
-      <title>Example article</title>
-      <link href="//articles/example-article/" />
-      <updated>2016-05-01T08:00:00-04:00</updated>
-      <id>//articles/example-article</id>
-      <content type="html">An example article to this theme</content>
     </entry>
   
     <entry>
